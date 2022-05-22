@@ -12,7 +12,7 @@ Linguagens e Tecnologias Utilizadas:
 
 Instruções da criação do projeto:
 
-- Abrir o VS Code 
+- Abrir o programa VS Code 
 - Crie o projeto com nome "CalculadoraJS01"
 - Crie as pastas CSS, JS e IMG
 - Adicione ou baixar as imagens que serão usadas na montagem da Calculadora na pasta IMG
@@ -23,7 +23,7 @@ Instruções da criação do projeto:
 - Crie a estrutura css da calculadora no arquivo
 - Crie o arquivo main.js da pasta JS
 - Crie a estrutura js da calculadora no arquivo
-- Teste o projeto abrir o index.html no Mozilla Firefox ou Google Chrome ou em outro navegador
+- Teste o projeto abrindo o index.html no Mozilla Firefox ou Google Chrome ou em outro navegador
 
 Funções de cada etapa do projeto: 
 
